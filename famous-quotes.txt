@@ -1,0 +1,5 @@
+'Walt', 'Disney', 'The way to get started is to quit talking and begin doing.'
+'Dalai', 'Lama', 'The purpose of our lives is to be happy.'
+'Bob', 'Marley', 'Love the life you live. Live the life you love.'
+'Thomas', 'Jefferson', 'I find that the harder I work, the more luck I seem to have.'
+'Theodore', 'Roosevelt', 'Believe you can and you are halfway there.'
